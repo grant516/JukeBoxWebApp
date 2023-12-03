@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# JukeBoxWebApp
+
+This is the web app version of JukeBox, a application that I ultimately want to build for Apple and android phones
+
+## Below if information provided to me when I first began creating this webapp with react.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
